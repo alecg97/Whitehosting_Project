@@ -2,7 +2,7 @@
 
 **Whitehosting** es una empresa británica dedicada a la inversión en inmuebles vacacionales. En el contexto post-COVID, la compañía contempla realizar una inversión de **300 millones de euros** en el mercado inmobiliario español, centrándose especialmente en **Barcelona, Madrid y Valencia**, donde ya cuenta con experiencia previa.
 
-Para tomar una decisión informada sobre esta inversión, la empresa plantea una serie de preguntas clave que requieren un análisis profundo de datos. Como punto de partida, se proporcionó un **dataset del mercado español**, así como instrucciones para llevar a cabo un **web scraping** de la conocida plataforma de alojamientos **Airbnb**.
+Para tomar una decisión informada sobre esta inversión, la empresa plantea una serie de preguntas clave que requieren un análisis profundo de datos. Como punto de partida, se proporciona un **dataset del mercado español**, así como instrucciones para llevar a cabo un **web scraping** de la conocida plataforma de alojamientos **Airbnb**.
 
 ---
 
@@ -22,9 +22,9 @@ En esta primera fase, se busca dar respuesta a las preguntas planteadas por la e
 
 - 🧹 **Limpieza y transformación** de ambos datasets y su posterior **unificación** en un conjunto consolidado, estructurado y listo para su análisis.
 
-- 📊 **Visualización de resultados** a través de **Power BI**, facilitando una interpretación visual y ejecutiva de los datos obtenidos.
+- 🗃️ **Elaboración de un modelo relacional en MySQL**, definiendo las distintas tablas, tipos de datos y relaciones entre ellas. Además, se introducen ejemplos de inserción de datos para comprobar su correcto funcionamiento y facilitar futuras consultas mediante SQL.
 
-- 🧾 **Informe final del proyecto** y una **presentación resumida** de los resultados obtenidos para la toma de decisiones.
+- 📊 **Visualización de resultados** a través de **Power BI**, facilitando una interpretación visual y ejecutiva de los datos obtenidos.
 
 ---
 
@@ -32,7 +32,7 @@ En esta primera fase, se busca dar respuesta a las preguntas planteadas por la e
 
 La segunda parte del proyecto se centra en técnicas avanzadas de **Machine Learning** e **IA Generativa**, con el fin de ampliar el valor del análisis:
 
-- 📈 Creación de **modelos de regresión** para predecir el **precio por noche** de un alojamiento, a partir de sus características.
+- 📈 Creación de **modelos de regresión** capaces de predecir el **precio por noche** de un alojamiento, a partir de sus características.
 
 - 🧠 Aplicación de **IA generativa** para **aumentar el contexto** y la cantidad de datos disponibles, utilizando datasets de reseñas y simulaciones.
 
@@ -40,20 +40,20 @@ La segunda parte del proyecto se centra en técnicas avanzadas de **Machine Lear
 
 ## 📂 Estructura del repositorio
 
-El repositorio se organiza en las siguientes carpetas, cada una con los archivos y recursos correspondientes a cada fase del proyecto:
+El repositorio, de acuerdo a las fases y tareas desempeñadas durante las mismas, se organiza en las siguientes carpetas:
 
 - `1.EDA/` → Análisis exploratorio de datos.
 - `2.WebScraping/` → Scripts y resultados del scraping de Airbnb.
-- `3.SQL/` → Consultas SQL para manejo y estructuración de datos.
+- `3.SQL/` → Modelo relacional, scripts y ejemplos de consulta en MySQL.
 - `4.PowerBI/` → Dashboard y visualizaciones interactivas.
-- `5.MachineLearning/` → Modelado predictivo del precio de los alojamientos.
+- `5.Machine_Learning/` → Modelado predictivo del precio de los alojamientos.
 - `6.IA/` → Aplicaciones de inteligencia artificial generativa.
 
 ---
 
 ## 📌 Conclusión
 
-Este proyecto no solo ofrece una base sólida para que Whitehosting evalúe su inversión en el mercado español, sino que también demuestra cómo los datos, el análisis visual y la inteligencia artificial pueden combinarse para **tomar decisiones estratégicas basadas en evidencia**.
+Este proyecto no solo ofrece una base sólida para que Whitehosting evalúe su inversión en el mercado español, sino que también demuestra cómo los datos, el análisis visual y la inteligencia artificial pueden combinarse para **tomar decisiones estratégicas basadas en evidencias**.
 
 ---
 
