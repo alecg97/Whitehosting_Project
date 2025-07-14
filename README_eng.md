@@ -47,7 +47,7 @@ The repository is organized into the following folders according to the project�
 - `3.SQL/` → Relational model, scripts, and SQL query examples.
 - `4.PowerBI/` → Dashboards and interactive visualizations.
 - `5.Machine_Learning/` → Predictive modeling of rental prices.
-- `6.IA/` → Applications of generative artificial intelligence.
+- `6.Generative_AI/` → Applications of generative artificial intelligence.
 
 ---
 
