@@ -47,7 +47,7 @@ El repositorio, de acuerdo a las fases y tareas desempeñadas durante las mismas
 - `3.SQL/` → Modelo relacional, scripts y ejemplos de consulta en MySQL.
 - `4.PowerBI/` → Dashboard y visualizaciones interactivas.
 - `5.Machine_Learning/` → Modelado predictivo del precio de los alojamientos.
-- `6.IA/` → Aplicaciones de inteligencia artificial generativa.
+- `6.Generative_AI/` → Aplicaciones de inteligencia artificial generativa.
 
 ---
 
